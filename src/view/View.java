@@ -1,6 +1,6 @@
-package main;
+package view;
 
-public class Main {
+public class View {
     public static void main(String[] args) {
         
     }
